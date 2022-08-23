@@ -1,0 +1,12 @@
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\bin\Debug\cocheSito.exe.config
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\bin\Debug\cocheSito.exe
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\bin\Debug\cocheSito.pdb
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\bin\Debug\cocheSito.xml
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\obj\Debug\cocheSito.vbproj.AssemblyReference.cache
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\obj\Debug\cocheSito.Form1.resources
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\obj\Debug\cocheSito.Resources.resources
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\obj\Debug\cocheSito.vbproj.GenerateResource.cache
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\obj\Debug\cocheSito.vbproj.CoreCompileInputs.cache
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\obj\Debug\cocheSito.exe
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\obj\Debug\cocheSito.xml
+E:\TheGordoBondiola\ejherencia2\cocheSito\cocheSito\obj\Debug\cocheSito.pdb
